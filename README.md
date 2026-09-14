@@ -4,6 +4,9 @@
 To implement a Half Wave Rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
 
+<img width="357" height="488" alt="image" src="https://github.com/user-attachments/assets/d9a4109f-8d46-4286-8894-9163a03170fc" />
+
+
 ## PROCEDURE:
 1.	Connections are made as shown in the circuit diagram.
   
@@ -15,4 +18,10 @@ To implement a Half Wave Rectifier with and without filter and to measure and co
 		
 ## OUTPUT:
 
+<img width="838" height="487" alt="image" src="https://github.com/user-attachments/assets/15b7bcc7-6f86-4725-893d-39666e54c006" />
+
+
 ## RESULT:
+
+<img width="800" height="287" alt="image" src="https://github.com/user-attachments/assets/f855589b-92a6-4097-a55e-4107ca76b7aa" />
+
