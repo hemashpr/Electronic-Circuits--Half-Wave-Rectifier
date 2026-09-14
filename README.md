@@ -23,5 +23,6 @@ To implement a Half Wave Rectifier with and without filter and to measure and co
 
 ## RESULT:
 
-<img width="800" height="287" alt="image" src="https://github.com/user-attachments/assets/f855589b-92a6-4097-a55e-4107ca76b7aa" />
+<img width="1323" height="416" alt="image" src="https://github.com/user-attachments/assets/58fb85d5-0bb1-4090-a371-f2cd1c7edb79" />
+
 
